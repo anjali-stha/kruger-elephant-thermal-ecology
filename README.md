@@ -37,4 +37,4 @@ Using fine-scale GPS telemetry paired with collar-mounted temperature sensors, t
 
 ## Tools & Data Source
 * **Language & Libraries:** R (`ggplot2`, `geosphere`, `sp`, `knitr`)
-* **Dataset:** Movebank Data Repository — *Fine-scale tracking of ambient temperature and movement reveals shuttling behavior of elephants to water* (Slotow, Thaker, & Vanak, 2019).
+\* **Dataset:** [Movebank Data Repository](https://datarepository.movebank.org/) — *Fine-scale tracking of ambient temperature and movement reveals shuttling behavior of elephants to water* (Slotow, Thaker, & Vanak, 2019).
