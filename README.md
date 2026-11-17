@@ -12,10 +12,10 @@ Using fine-scale GPS telemetry paired with collar-mounted temperature sensors, t
 ## Key Visualizations
 
 ### 1. Travel Speed Across Thermal Stress Brackets
-![Elephant Travel Speed Boxplot](plots/elephant_thermal_boxplot.png)
+![Elephant Travel Speed Boxplot](elephant_thermal_boxplot.png)
 
 ### 2. Individual Movement Trajectories Across Kruger National Park
-![Spatial Trajectories Map](plots/elephant_spatial_trajectories.png)
+![Spatial Trajectories Map](elephant_spatial_trajectories.png)
 
 ---
 
